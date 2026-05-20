@@ -49,7 +49,7 @@ This is your page!
     </p>
 
     <p>
-      The organic waste is processed into compost or renewable energy, a key component of reducing the city’s carbon footprint and the amount of waste sent to landfills. The Department of Sanitation states that residents can be fined up to $300 for noncompliance. But Mayor Eric Adams paused most enforcement just weeks after ticketing began last April, saying fines would resume sometime in 2026. 
+      The organic waste is processed into compost or renewable energy, a key component of reducing the city’s carbon footprint and the amount of waste sent to landfills. The Department of Sanitation states that residents can be fined up to $300 for noncompliance. But former Mayor Eric Adams paused most enforcement just weeks after ticketing began last April, saying fines would resume sometime in 2026. 
     </p>
      
     <p>
