@@ -45,7 +45,7 @@ This is your page!
 <div class="container">
   <ArticleBody>
     <p>
-      Mayor-elect Zohran Mamdani is maintaining New York City's requirement that residents separate their organic waste — food scraps, compostable paper and yard trimmings — from other trash. 
+      Mayor Zohran Mamdani is maintaining New York City's requirement that residents separate their organic waste — food scraps, compostable paper and yard trimmings — from other trash. 
     </p>
 
     <p>
